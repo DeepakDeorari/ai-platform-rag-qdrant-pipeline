@@ -1,0 +1,7 @@
+qdrant-client
+sentence-transformers
+transformers
+torch
+requests
+pymupdf
+numpy
